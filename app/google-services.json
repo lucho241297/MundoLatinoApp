@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221484079309",
+    "firebase_url": "https://mundolatinos3.firebaseio.com",
+    "project_id": "mundolatinos3",
+    "storage_bucket": "mundolatinos3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221484079309:android:1ee96bee14f6b8abb1f184",
+        "android_client_info": {
+          "package_name": "com.example.mundolatino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221484079309-jm5fr7735f4kquu8j4k1phvsmjv15abd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWo2hn4Ap2RgkHYEqJsb8JCZvKuIoWFR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221484079309-jm5fr7735f4kquu8j4k1phvsmjv15abd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

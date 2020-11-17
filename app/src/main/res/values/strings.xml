@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MundoLatino</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="txtOlvide">Olvide mi contraseña</string>
+    <string name="txtCliente">Clientes</string>
+    <string name="txtCotizaciones">Cotizaciones</string>
+    <string name="txtFacturas">Facturas</string>
+    <string name="registrarClientes">Registrar de clientes</string>
+    <string name="verClientes">Ver clientes</string>
+    <string name="registroClientes">Registro de clientes</string>
+    <string name="nombreCliente">Nombre</string>
+    <string name="telefonoCliente">Telefono</string>
+    <string name="EmailCliente">Email</string>
+    <string name="Registrarcliente">Registrar Cliente</string>
+    <string name="IngreseCorreo">Ingrese su Email</string>
+    <string name="recuperarContrasena">Recuperar Contraseña</string>
+    <string name="ClientesRegistrados">Clientes registrados:</string>
+    <string name="FechaFactura">Fecha</string>
+    <string name="NumeroFactura">Numero Factura:</string>
+    <string name="btnGenerarFactura">Generar Factura:</string>
+    <string name="fechaCotizacion">Fecha</string>
+    <string name="nombreCotizacion">Nombre</string>
+    <string name="ItemCotizacion">Item</string>
+    <string name="precioCotizacion">Precio</string>
+    <string name="txtCotizacion">Generar Cotización</string>
+
+</resources>
